@@ -1,0 +1,13 @@
+/build/
+/.settings/
+/.classpath
+/.project
+/.tern-project
+/nbbuild/
+/conf/
+/nbproject/
+/dist/
+/nb-build.xml
+/build.xml
+/WEB-INF/classes/
+/bin/
